@@ -1,3 +1,4 @@
 # Git ignore files
 .venv
 ./venv
+venv
